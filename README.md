@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+	<h2 align="center">Welcome</h2>
+</p>
 
-<!--
-**mistakes1337/mistakes1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+	<h2 align="center">About me</h2>
+  <p>I am a guy with interest in reverse engineering and cybersecurity. I am learning about reverse engineering in my free time along with working out.</p>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+	<h3>Socials</h3>
+	<ul>
+		<a>Discord: mistakes1337</a>
+	</ul>
+</p>
