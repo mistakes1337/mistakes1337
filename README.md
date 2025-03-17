@@ -32,6 +32,6 @@
 
 ###
 
-<p align="left"><i>I am a guy with interest in <b>reverse engineering</b>b> and <b>cybersecurity</b>b>. I am learning about <b>reverse engineering</b> in my free time along with working out.<br><br>I have been doing <b>ctf's</b> for 2-3 years and now have been more inactive in there<br><br>Along with <b>reversing</b> and <b>cybersecurity</b> I make game cheats for pure enjoyment</i>.</p>
+<p align="left"><i>I am a guy with interest in <b>reverse engineering</b> and <b>cybersecurity</b>. I am learning about <b>reverse engineering</b> in my free time along with working out.<br><br>I have been doing <b>ctf's</b> for 2-3 years and now have been more inactive in there<br><br>Along with <b>reversing</b> and <b>cybersecurity</b> I make game cheats for pure enjoyment</i>.</p>
 
 ###
